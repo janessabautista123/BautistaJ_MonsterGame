@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# monsterEntity
+#
+
+projectname: monsterEntity
+vendorid: com.janessabautista
+mainmodule: com.janessabautista.monsterentity
